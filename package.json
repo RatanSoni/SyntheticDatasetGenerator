@@ -1,0 +1,21 @@
+{
+  "name": "com.RatanSoni.syntheticdatasetgenerator",
+  "version": "1.0.0",
+  "displayName": "Synthetic Dataset Generator",
+  "description": "Unity Editor tool for generating synthetic datasets for computer vision and machine learning. Supports YOLO, COCO, Pascal VOC, KITTI, CreateML, and TFRecord formats.",
+  "unity": "2021.3",
+  "keywords": [
+    "synthetic-data",
+    "dataset-generation",
+    "computer-vision",
+    "machine-learning",
+    "yolo",
+    "coco",
+    "object-detection",
+    "segmentation"
+  ],
+  "author": {
+    "name": "Ratan Soni",
+    "email": "ratandsoni@gmail.com"
+  }
+}
